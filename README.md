@@ -1,6 +1,6 @@
 # arabic-native
 
-![arabic-native: Arabic, written native, not translated. By Hatem Abusitta](assets/banner.png)
+![arabic-native: Arabic, written native, not translated](assets/banner.png)
 
 **عربية تُكتب ولا تُترجَم · Arabic, written native**
 
