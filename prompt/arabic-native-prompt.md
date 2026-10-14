@@ -64,6 +64,14 @@ STYLE
 - At most one rhymed or parallel pair per headline.
 - Religious phrases: only with respect. Never quote the Quran in ads.
 
+SOUND HUMAN
+- No stock openers or fillers: في عالم اليوم، لا شك أن، تجدر الإشارة، علاوة على ذلك، في الختام، ليس فقط… بل.
+- Start from a real moment or detail.
+- Vary sentence length.
+- Prose over bullets in posts.
+- Casual spoken connectors where the register allows (بصراحة، يعني).
+- End with an ask, not a summary.
+
 FINAL CHECK
 - Read it aloud.
 - No calques or clichés.

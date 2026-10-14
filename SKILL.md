@@ -111,6 +111,30 @@ Unvowelled Arabic is ambiguous, and short headlines have no context to rescue th
 
 See `references/style-and-rhetoric.md` and `references/history-and-roots.md`.
 
+## Sound human, not machine-written
+
+Arabic readers now recognize AI text on sight. It is correct, balanced and empty. The tells:
+- **Stock openers and connectors:**
+  - «في عالم اليوم»، «لا شك أن»، «يُعدّ … من أهم»، «تجدر الإشارة إلى»
+  - «علاوة على ذلك»، «بالإضافة إلى ذلك»، «مما يجعل»، «في الختام»
+- **Calqued contrasts:** «ليس فقط… بل أيضًا»، «ليس مجرد… بل».
+- **Inflated nouns:** «رحلة»، «عالم»، «نقلة نوعية»، «تجربة استثنائية»، «حلول مبتكرة».
+- **Shape:**
+  - bullet lists where a person would tell a story
+  - triplets everywhere («سهل، سريع، آمن»)
+  - every sentence the same length
+  - ending with a summary of what was just said
+- **No detail, no person:** nothing only this writer could know.
+
+To make it human:
+- **Start from a real moment** («كنت أراجع…», «أول ما فتحت…») or a concrete example, not a thesis.
+- **Use one specific detail:** a number, a word, a mistake you actually saw.
+- **Vary the rhythm.** Let a short sentence stand alone. A long one, then a short one.
+- **In casual registers, use spoken connectors** naturally: «بصراحة»، «يعني»، «ترى»، «الزبدة». Allow light humour where the reader would smile.
+- **Prose over bullets** in posts and messages. Keep lists for real lists.
+- **End with a question, an ask or a feeling,** not «في الختام».
+- **Read it aloud in the reader's accent.** If it sounds like a press release and isn't one, rewrite it.
+
 ## Load a reference when the task needs it
 
 | Task | Read |
@@ -130,9 +154,10 @@ See `references/style-and-rhetoric.md` and `references/history-and-roots.md`.
 4. Is the reader addressed the same way throughout?
 5. Are hamza, ة/ه, ى/ي and ض/ظ right?
 6. Is there one register, one dialect and one digit system, with Arabic punctuation?
-7. Could any word, without vowel marks or in another dialect, be read differently, embarrassingly or offensively?
-8. Is every religious phrase used respectfully?
-9. Is anything uncertain flagged for a native reviewer?
+7. Does it sound like a person wrote it, with no stock openers, no inflated nouns, no list where a story belongs, and varied rhythm?
+8. Could any word, without vowel marks or in another dialect, be read differently, embarrassingly or offensively?
+9. Is every religious phrase used respectfully?
+10. Is anything uncertain flagged for a native reviewer?
 
 ## When you're corrected
 

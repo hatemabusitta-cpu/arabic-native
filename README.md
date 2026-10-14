@@ -56,7 +56,7 @@ This skill teaches AI to write Arabic **from the meaning**, in the register the 
 | **Gemini** (Gem) | Create a Gem, paste the prompt into *Instructions*, and add the `references/` files (7 files; Gems take up to 10) |
 | **Any other AI** | Paste the prompt at the start of the conversation or into its system prompt |
 
-The prompt is a compact version of the skill (about 3,200 characters). The full depth lives in `SKILL.md` and `references/`.
+The prompt is a compact version of the skill (about 3,500 characters). The full depth lives in `SKILL.md` and `references/`.
 
 **بالعربي:** المهارة تعمل مع أي ذكاء اصطناعي. أدوات البرمجة الحديثة (Codex وGemini CLI وCursor وCopilot) تقرأ مجلد المهارة كما هو. وفي ChatGPT وGemini الصق ملف `prompt/arabic-native-prompt.md` في خانة التعليمات، وارفع ملفات `references` كمعرفة إضافية.
 
