@@ -28,19 +28,26 @@ Most machine-made Arabic is grammatical but foreign: English word order, «قم 
 
 This Claude skill writes Arabic **from the meaning**, in the register the reader actually lives in. Simple MSA for apps, formal MSA for contracts, and white Saudi dialect for ads and social. It covers register choice, a calque blacklist, number and gender agreement, double meanings across dialects, rhetoric, new-generation Arabic, UI writing, and the history behind the language. Saudi Arabia and the Gulf are the default audience.
 
-## Install
+## استخدمها مع أي ذكاء اصطناعي · Use it with any AI
 
-Copy the `arabic-native` folder into your Claude skills folder:
+| الأداة · Tool | الطريقة · How |
+|---|---|
+| **Claude Code** | `cp -R arabic-native ~/.claude/skills/` |
+| **Claude.ai** (web, desktop) | Settings › Capabilities › Skills, then upload `arabic-native.zip` from [Releases](../../releases) |
+| **OpenAI Codex, Gemini CLI, Cursor, GitHub Copilot** and other tools that read the open `SKILL.md` standard | Copy the folder into the tool's skills folder, e.g. `~/.agents/skills/arabic-native` (Codex, Cursor) or `~/.gemini/skills/arabic-native` (Gemini CLI). Check your tool's docs for the exact path. |
+| **ChatGPT** (Custom GPT) | Paste [`prompt/arabic-native-prompt.md`](prompt/arabic-native-prompt.md) into *Instructions*, then upload the files in `references/` as *Knowledge* |
+| **ChatGPT** (any chat) | Paste the prompt into *Custom instructions* (paid plans allow 5,000 characters), or send it as the first message of a chat |
+| **Gemini** (Gem) | Create a Gem, paste the prompt into *Instructions*, and add the `references/` files (7 files; Gems take up to 10) |
+| **Any other AI** | Paste the prompt at the start of the conversation or into its system prompt |
 
-```bash
-cp -R arabic-native ~/.claude/skills/
-```
+The prompt is a compact version of the skill (about 3,200 characters). The full depth lives in `SKILL.md` and `references/`.
 
-Claude then uses it whenever you write, translate or review Arabic.
+**بالعربي:** المهارة تعمل مع أي ذكاء اصطناعي. أدوات البرمجة الحديثة (Codex وGemini CLI وCursor وCopilot) تقرأ مجلد المهارة كما هو. وفي ChatGPT وGemini الصق ملف `prompt/arabic-native-prompt.md` في خانة التعليمات، وارفع ملفات `references` كمعرفة إضافية.
 
 ## Layout
 
 - `SKILL.md`: the core rules and the final check
+- `prompt/arabic-native-prompt.md`: the compact, paste-anywhere version for ChatGPT, Gemini and other assistants
 - `references/`: deep material, loaded only when a task needs it (history and roots, dialects and youth language, double meanings, style, translation pitfalls, UI writing, sources)
 
 Claims are tagged **[verified]**, **[common knowledge]** or **[observed / verify]**. Slang and app-specific usage change fast, so confirm those with a native speaker.
