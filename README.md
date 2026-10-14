@@ -4,6 +4,20 @@
 
 *بقلم حاتم أبو ستة · By Hatem Abusitta*
 
+**Make ChatGPT, Claude, Gemini, or any AI write Arabic that sounds native, not translated.**
+**اجعل ChatGPT وClaude وGemini وأي ذكاء اصطناعي يكتب عربية أصيلة، لا ترجمة حرفية.**
+
+| English | Literal AI Arabic ✗ | arabic-native ✓ |
+|---|---|---|
+| Click the button below | قم بالضغط على الزر أدناه | اضغط الزر |
+| Your password was successfully updated | تم تحديث كلمة المرور الخاصة بك بنجاح | تم تحديث كلمة مرورك |
+| Are you sure you want to delete this photo? | هل أنت متأكد أنك تريد حذف هذه الصورة؟ | حذف الصورة؟ |
+| Failed to connect | فشل الاتصال | تعذّر الاتصال |
+| 12 new messages | 12 رسائل جديدة | 12 رسالة جديدة |
+| Unlock your potential | أطلق العنان لإمكاناتك | قدراتك تكفي، ابدأ |
+
+Works for: Arabic localization (تعريب) and translation (ترجمة), app and website copy, UX writing, marketing and ads, social media content (صناعة المحتوى), WhatsApp messages, and Saudi and Gulf audiences.
+
 ---
 
 ## بالعربي
