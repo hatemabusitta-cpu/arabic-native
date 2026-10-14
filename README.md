@@ -10,7 +10,7 @@
 
 أغلب العربية التي تكتبها الآلات اليوم صحيحة نحويًا لكنها غريبة على الأذن: ترتيب جمل إنجليزي، و«قم بـ»، و«الخاص بك»، و«تم بنجاح» في كل سطر. القارئ العربي يكشفها من أول جملة.
 
-هذه المهارة تعلّم Claude أن يكتب العربية من المعنى، بالمستوى الذي يعيشه القارئ: فصحى سهلة للتطبيقات، وفصحى رسمية للعقود، ولهجة سعودية بيضاء للإعلانات ووسائل التواصل.
+هذه المهارة تعلّم الذكاء الاصطناعي أن يكتب العربية من المعنى، بالمستوى الذي يعيشه القارئ: فصحى سهلة للتطبيقات، وفصحى رسمية للعقود، ولهجة سعودية بيضاء للإعلانات ووسائل التواصل.
 
 **ما الذي تغطيه:**
 - اختيار المستوى المناسب لكل منصة، وعدم خلط اللهجات
@@ -26,7 +26,7 @@
 
 Most machine-made Arabic is grammatical but foreign: English word order, «قم بـ», «الخاص بك», «تم بنجاح» on every line. Native readers spot it instantly.
 
-This Claude skill writes Arabic **from the meaning**, in the register the reader actually lives in. Simple MSA for apps, formal MSA for contracts, and white Saudi dialect for ads and social. It covers register choice, a calque blacklist, number and gender agreement, double meanings across dialects, rhetoric, new-generation Arabic, UI writing, and the history behind the language. Saudi Arabia and the Gulf are the default audience.
+This skill teaches AI to write Arabic **from the meaning**, in the register the reader actually lives in. Simple MSA for apps, formal MSA for contracts, and white Saudi dialect for ads and social. It covers register choice, a calque blacklist, number and gender agreement, double meanings across dialects, rhetoric, new-generation Arabic, UI writing, and the history behind the language. Saudi Arabia and the Gulf are the default audience.
 
 ## استخدمها مع أي ذكاء اصطناعي · Use it with any AI
 
